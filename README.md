@@ -34,7 +34,7 @@ Security Consultant with **10+ years** of dedicated experience in Application Se
 |------|--------|
 | **Security Testing** | SAST, DAST, Manual Penetration Testing, API Security Testing |
 | **Code Review** | Secure Code Review — JavaScript, Salesforce Apex |
-| **Standards** | OWASP Top 10, OWASP WSTG, OWASP ASVS, CVSS |
+| **Standards** | OWASP Top 10, OWASP WSTG, OWASP ASVS,  |
 | **Platforms** | Web Applications, REST APIs, Salesforce |
 | **Protocols** | HTTP (Requests, Responses, Headers), Auth & Authorization Mechanisms |
 
@@ -46,7 +46,7 @@ Security Consultant with **10+ years** of dedicated experience in Application Se
 - Executed REST API security assessments covering authentication, authorization, and data exposure risks
 - Tested token-based authentication flows for broken access control and privilege escalation
 - Identified vulnerabilities including **Broken Object-Level Authorization (BOLA)** and sensitive data exposure
-- Delivered reports with **CVSS-based severity classification** and targeted remediation guidance
+- Delivered reports with **-based severity classification** and targeted remediation guidance
 
 ### 🔷 Salesforce Security Review
 - Conducted security assessments for Salesforce applications — platform configuration and custom code
@@ -77,7 +77,7 @@ Secure Code Review        ██████████████████
 - ✅ **OWASP Top 10** — Vulnerability classification and remediation
 - ✅ **OWASP WSTG** — Web Security Testing Guide methodology
 - ✅ **OWASP ASVS** — Application Security Verification Standard
-- ✅ **CVSS** — Common Vulnerability Scoring System for severity rating
+- ✅ **** — Common Vulnerability Scoring System for severity rating
 - ✅ **HTTP Security** — Request/response analysis, headers, auth mechanisms
 
 ---
